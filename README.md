@@ -31,7 +31,7 @@ During large-scale crises, NGOs and rescue teams face a massive data bottleneck.
    ```bash
    git clone [https://github.com/yourusername/evo-allocate.git](https://github.com/yourusername/evo-allocate.git)
 
-
+apne folder me ek "data" naam ka folder banana mat bhulna
    Create and activate a virtual environment.
 
 Install dependencies:
