@@ -37,9 +37,14 @@ During large-scale crises, NGOs and rescue teams face a massive data bottleneck.
 Install dependencies:
 
 Bash
+
 pip install -r requirements.txt
+
 Run the Enterprise Command Center:
 
 Bash
+
 python -m streamlit run app.py
+
+
 Developed by Ayush Pandey | Built for Hack To Skill Hackathon 2026
